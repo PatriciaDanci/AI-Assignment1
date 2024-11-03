@@ -32,5 +32,7 @@ A - A Star
 K - Dijkstra
 
 Additionally, after the path has been displayed, you can press 'G' (for Grid) to view the Cost of each cell, should the algorithm require it (UCS/ Dijsktra/ A Star) 
+
 I also tried displaying the Cost Grid continuously for these 3 algorithms for a better visualization, but there were slow-downs or even program responding issues. 
-In order to determine the Cost, I simple gave each cell a random number ranging from 1 to 10. 
+
+In order to determine the Cost, I simply assigned each cell a random number ranging from 1 to 10. 
